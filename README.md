@@ -90,42 +90,46 @@ I'm a **Master's student in Artificial Intelligence at BTU Cottbus-Senftenberg**
 <tr>
 <td width="50%" valign="top">
 
-### 🚦 Real-Time Traffic Prediction and Control
-*Image processing for smart traffic signals*
+### 🚦 AI-Powered Adaptive Traffic Management System
+*Computer Vision-driven dynamic traffic light optimization*
 
-Detects and counts vehicles from multiple road video feeds using a **Haar cascade classifier**, then **dynamically allocates green-signal time** to each road in proportion to its traffic density.
+Developed a real-time computer vision system that analyzes live video feeds to detect and quantify vehicle traffic, dynamically optimizing signal timings based on lane density to minimize congestion and reduce average wait times at multi-lane intersections.
 
-**Highlights**
-- Vehicle detection with OpenCV (blur, grayscale conversion, cascade detection)
-- Virtual counting line to count vehicles crossing a point
-- Adaptive signal timing for a 4-road junction
-- Density-based control that reduces waiting time on busy roads
+**Key Contributions & Highlights**
+- **Real-Time Object Detection**: Implemented Haar Cascade classifiers via OpenCV for robust vehicle detection, utilizing image preprocessing (Gaussian blur, grayscale conversion) to improve accuracy under varying conditions.
+- **Dynamic Resource Allocation**: Engineered an adaptive algorithm that calculates lane-specific traffic density and proportionally allocates green-light duration for a 4-way junction.
+- **Virtual Sensor Implementation**: Designed a virtual counting zone/line to accurately track vehicle throughput and prevent double-counting during peak traffic flow.
+- **Impact**: Significantly reduces simulated average wait times on high-density routes by dynamically prioritizing congested lanes over static timer-based systems.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-[🔗 View Repository](https://github.com/Vasanthreddyz/traffic-control-image-processing)
+<br>
+
+[![View Project Repository](https://img.shields.io/badge/View_Project-Repository-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vasanthreddyz/traffic-control-image-processing)
 
 </td>
 <td width="50%" valign="top">
 
-### 🎟️ Event Management System
-*Full stack web application*
+### 🎟️ Eventify: Event Management & Booking System
+*Full-stack Java web application with role-based access*
 
-Built during my **Java Full Stack Development** course. Lets users create, view, update and delete events through a clean web interface backed by a database.
+Designed and developed a comprehensive, database-driven web platform during an intensive Java Full Stack Development program. Enables seamless event discovery, booking, and administrative oversight.
 
-**Highlights**
-- Complete CRUD functionality for events
-- Database-backed storage with MySQL
-- Responsive front-end interface
-- Structured back-end using Java
+**Key Contributions & Highlights**
+- **MVC Architecture**: Built a structured backend using Java Servlets and JSP, ensuring clean separation of concerns between business logic, data models, and the user interface.
+- **Role-Based Access Control (RBAC)**: Implemented secure `HttpSession` management to differentiate workflows for regular users (booking, cancelling, rating) and administrators (approving events, user management).
+- **Database Integration**: Designed normalized MySQL schemas and utilized JDBC with Prepared Statements to ensure secure, efficient CRUD operations and prevent SQL injection.
+- **User Experience**: Developed a responsive, intuitive frontend interface for smooth event browsing and real-time booking status updates.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Jakarta EE](https://img.shields.io/badge/Jakarta%20EE-EE3129?style=flat-square&logo=jakartaee&logoColor=white)
 
-[🔗 View Repository](https://github.com/Vasanthreddyz/event-management-system)
+<br>
+
+[![View Project Repository](https://img.shields.io/badge/View_Project-Repository-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vasanthreddyz/event-management-system)
 
 </td>
 </tr>
