@@ -90,7 +90,7 @@ I'm a **Master's student in Artificial Intelligence at BTU Cottbus-Senftenberg**
 <tr>
 <td width="50%" valign="top">
 
-### 🚦 AI-Powered Adaptive Traffic Management System
+### 🚦Real Time Traffic Prediction and control System
 *Computer vision-based traffic signal decision system*
 
 A real-time system that analyzes two live video feeds, counts vehicles per lane, and decides which lane gets the longer green signal based on traffic density.
