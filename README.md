@@ -91,19 +91,18 @@ I'm a **Master's student in Artificial Intelligence at BTU Cottbus-Senftenberg**
 <td width="50%" valign="top">
 
 ### 🚦 AI-Powered Adaptive Traffic Management System
-*Computer Vision-driven dynamic traffic light optimization*
+*Computer vision-based traffic signal decision system*
 
-Developed a real-time computer vision system that analyzes live video feeds to detect and quantify vehicle traffic, dynamically optimizing signal timings based on lane density to minimize congestion and reduce average wait times at multi-lane intersections.
+A real-time system that analyzes two live video feeds, counts vehicles per lane, and decides which lane gets the longer green signal based on traffic density.
 
-**Key Contributions & Highlights**
-- **Real-Time Object Detection**: Implemented Haar Cascade classifiers via OpenCV for robust vehicle detection, utilizing image preprocessing (Gaussian blur, grayscale conversion) to improve accuracy under varying conditions.
-- **Dynamic Resource Allocation**: Engineered an adaptive algorithm that calculates lane-specific traffic density and proportionally allocates green-light duration for a 4-way junction.
-- **Virtual Sensor Implementation**: Designed a virtual counting zone/line to accurately track vehicle throughput and prevent double-counting during peak traffic flow.
-- **Impact**: Significantly reduces simulated average wait times on high-density routes by dynamically prioritizing congested lanes over static timer-based systems.
+**Highlights**
+- **Vehicle Detection**: Haar Cascade classifier with OpenCV, with blur and grayscale preprocessing on each frame.
+- **Virtual Counting Line**: A line drawn across each lane counts vehicles as they cross it.
+- **Adaptive Signal Logic**: Compares lane counts and gives the busier lane 70% of the green time and the other 30%.
+- **Hardware-Ready**: Includes serial communication hooks to send the decision to a microcontroller (e.g., Arduino).
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
 <br>
 
@@ -113,19 +112,20 @@ Developed a real-time computer vision system that analyzes live video feeds to d
 <td width="50%" valign="top">
 
 ### 🎟️ Eventify: Event Management & Booking System
-*Full-stack Java web application with role-based access*
+*Role-based Java full-stack web application*
 
-Designed and developed a comprehensive, database-driven web platform during an intensive Java Full Stack Development program. Enables seamless event discovery, booking, and administrative oversight.
+A web platform for event discovery, booking, enquiries, and admin oversight, built with the MVC architecture during a Java Full Stack program.
 
-**Key Contributions & Highlights**
-- **MVC Architecture**: Built a structured backend using Java Servlets and JSP, ensuring clean separation of concerns between business logic, data models, and the user interface.
-- **Role-Based Access Control (RBAC)**: Implemented secure `HttpSession` management to differentiate workflows for regular users (booking, cancelling, rating) and administrators (approving events, user management).
-- **Database Integration**: Designed normalized MySQL schemas and utilized JDBC with Prepared Statements to ensure secure, efficient CRUD operations and prevent SQL injection.
-- **User Experience**: Developed a responsive, intuitive frontend interface for smooth event browsing and real-time booking status updates.
+**Highlights**
+- **Role-Based Access**: Separate workflows for users (book, cancel, enquire, rate) and admins (approve or reject bookings, manage users).
+- **MVC Architecture**: Servlets as controllers, JSP as views, and Java model classes with JDBC for database access.
+- **Session Management**: `HttpSession` keeps users authenticated and protects admin actions.
+- **Customer Engagement**: Built-in enquiry and event rating features.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-Servlets-EE3129?style=flat-square)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Jakarta EE](https://img.shields.io/badge/Jakarta%20EE-EE3129?style=flat-square&logo=jakartaee&logoColor=white)
+![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black)
 
 <br>
 
