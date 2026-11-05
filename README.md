@@ -90,7 +90,7 @@ I'm a **Master's student in Artificial Intelligence at BTU Cottbus-Senftenberg**
 <tr>
 <td width="50%" valign="top">
 
-### 🚦Real Time Traffic Prediction and control System
+### 🚦 AI-Powered Adaptive Traffic Management System
 *Computer vision-based traffic signal decision system*
 
 A real-time system that analyzes two live video feeds, counts vehicles per lane, and decides which lane gets the longer green signal based on traffic density.
@@ -106,7 +106,7 @@ A real-time system that analyzes two live video feeds, counts vehicles per lane,
 
 <br>
 
-[![View Project Repository](https://img.shields.io/badge/View_Project-Repository-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vasanthreddyz/traffic-control-image-processing)
+[![View Project Repository](https://img.shields.io/badge/View_Project-Repository-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vasanthreddyz/Real-Time-Traffic-Prediction-Control-Using-Image-Processing)
 
 </td>
 <td width="50%" valign="top">
@@ -129,7 +129,7 @@ A web platform for event discovery, booking, enquiries, and admin oversight, bui
 
 <br>
 
-[![View Project Repository](https://img.shields.io/badge/View_Project-Repository-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vasanthreddyz/event-management-system)
+[![View Project Repository](https://img.shields.io/badge/View_Project-Repository-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vasanthreddyz/Event-Management-Booking-System)
 
 </td>
 </tr>
