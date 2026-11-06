@@ -10,7 +10,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasanth-reddy27/)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reddyvasanth.work@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Vasanthreddyz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vasanthreddyz)
-[![Resume](https://img.shields.io/badge/Resume-View_PDF-38BDF8?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./Vasanth_Reddy_Resume.pdf)
 ![Open to Work](https://img.shields.io/badge/Open_to-Werkstudent_Roles-2ea44f?style=for-the-badge)
 
 </div>
@@ -138,29 +137,14 @@ A web platform for event discovery, booking, enquiries, and admin oversight, bui
 
 ---
 
-## 📊 Dashboard
+## 📊 GitHub Stats
 
 <div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%"><b>🎓 Studying</b><br/>M.Sc. AI<br/>BTU Cottbus-Senftenberg</td>
-<td align="center" width="25%"><b>💼 Status</b><br/>Open to Werkstudent roles<br/>Germany / Remote</td>
-<td align="center" width="25%"><b>🧪 Focus</b><br/>Computer Vision, ML<br/>Full Stack Development</td>
-<td align="center" width="25%"><b>📄 Resume</b><br/><a href="./Vasanth_Reddy_Resume.pdf">View / Download PDF</a></td>
-</tr>
-</table>
-
-<br/>
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=Vasanthreddyz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="stats"/>
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasanthreddyz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="top languages"/>
 
 <img src="https://streak-stats.demolab.com?user=Vasanthreddyz&theme=tokyonight&hide_border=true&background=0D1117" alt="streak"/>
-
-<br/><br/>
-
-[![Download Resume](https://img.shields.io/badge/📄_Download_Resume-Vasanth_Reddy-38BDF8?style=for-the-badge)](./Vasanth_Reddy_Resume.pdf)
 
 </div>
 
